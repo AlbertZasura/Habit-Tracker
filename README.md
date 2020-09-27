@@ -1,3 +1,10 @@
-# Habit Tracker :: Template UAS PSD
+# Habit Tracker
 
-Template endpoint untuk pengerjaan UAS dapat dibuka di dalam folder [Abc.HabitTracker.Api/Controllers](Abc.HabitTracker.Api/Controllers)
+Habit Tracker is a ***Pattern Software Design*** Project.
+This Project focus on Domain Driven Design ( DDD ) pattern to create the website.
+
+# This Project is a College Project.
+
+# Author Lists:
+
+1. Albert
